@@ -1,2 +1,2 @@
-# breakOutStratagy
-Quant method
+#Simple breakOutStratagy test
+
